@@ -28,4 +28,4 @@ def adapter_search(myset, pv, i):
         return pv
     
     if lines[i+1] - pv == 1:
-        a = 1
+        i = 1
